@@ -242,8 +242,5 @@ educational-keylogger/
 
 ---
 
-## ✅ License
 
-MIT-style license — educational use only.  
-No liability for misuse.
 
