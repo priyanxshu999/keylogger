@@ -186,15 +186,46 @@ educational-keylogger/
 
 ---
 
+---
+
 ## 📸 Screenshots
 
-| Example Output |
-|----------------|
-| ![](assets/pic1.png) |
-| ![](assets/pic2.png) |
-| ![](assets/pic3.png) |
-| ![](assets/pic4.png) |
-| ![](assets/pic5.png) |
+> Example outputs from different parts of the keylogger in action.
+
+---
+
+### 🔹 Screenshot 1  
+**Live keylogging in action (real-time logging to DB & TXT):**
+
+![Screenshot 1](assets/pic1.png)
+
+---
+
+### 🔹 Screenshot 2  
+**Using `--dump` to print all logs from the database:**
+
+![Screenshot 2](assets/pic2.png)
+
+---
+
+### 🔹 Screenshot 3  
+**Smart reconstructed search using `--smart-search password`:**
+
+![Screenshot 3](assets/pic3.png)
+
+---
+
+### 🔹 Screenshot 4  
+**Exporting logs to CSV using `--export logs.csv`:**
+
+![Screenshot 4](assets/pic4.png)
+
+---
+
+### 🔹 Screenshot 5  
+**Plaintext logging to `keylog.txt` shown in a text viewer:**
+
+![Screenshot 5](assets/pic5.png)
 
 ---
 
